@@ -3,6 +3,7 @@
 Rakuten has that search feature that lets you earn some points when you search stuff. Thus, this Chrome extension is made to automatically collect all 30 "entries" for you so that you force Rakuten to share their profit, which is pretty communist.
 
 ## Prequisities
+* Chrome
 * [Rakuten toolbar](https://chrome.google.com/webstore/detail/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A7%E3%83%96%E6%A4%9C%E7%B4%A2/iihkglbebihpaflfihhkfmpabjgdpnol) (Or you can't search)
 * The extension won't log into your Rakuten account for you. Make sure you log in and your cookie for `*.rakuten.co.jp` is properly stored.
 
