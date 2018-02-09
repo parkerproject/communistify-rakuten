@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Communistify Rakuten",
+  "short_name": "RakutenHack",
+  "description": "A chrome extension that claims Rakuten's search bonus every day",
+  "version": "0.0.1",
+  "default_locale": "en",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "offline_enabled": false,
+  "author": "Austin Huang <im@austinhuang.me> (https://austinhuang.me)"
+}
